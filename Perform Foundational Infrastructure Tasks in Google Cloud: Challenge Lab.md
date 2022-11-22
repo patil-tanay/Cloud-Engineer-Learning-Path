@@ -16,7 +16,7 @@ Create Topic > Name:  "Name as per given in lab" > Create Topic<br>
 
 Navigation menu > Cloud Functions > Create Function<br>
 Use the following config:<br>
-Name: CFtopic id Region: us-east1 Trigger: Cloud Storage Event type: Finalize/Create Bucket: BROWSE > Select the qwiklabs bucket<br>
+Name: "Name as per given in lab" <br> Region: us-east1 <br> Trigger: Cloud Storage <br> Event type: Finalize/Create <br> Bucket: BROWSE > Select the qwiklabs bucket<br>
 Remaining default > Next<br>
 Runtime: Node.js 10 Entry point: thumbnail<br>
 Add the code appropiately<br>
